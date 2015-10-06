@@ -1,7 +1,7 @@
 # Github Workshop Assignedment
 
-姓名：江鍾權 Edward Chiang  
-系級：講師
+姓名：黃湘怡 馬文婷
+系級：資管四A
 
 ## Git 指令說明
 
